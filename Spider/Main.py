@@ -91,7 +91,6 @@ class Spider(object):
                 value ='./div[@class="bottom clearfix"]/div/div/span').text
             print(price)
 
-
             break
 
 
